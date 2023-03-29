@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ This is sarojini mandapati ,🎓 I'm CSE graduate.
+ I found my interest in working with data and love ❤️ to create dashboards to convey my valuable insights
+ 🎯 Dream to start my career in the data analytics field 
+ 🔭 Skills I have SQL| EXCEL| PYTHON| TABLEAU
+ 🌱 I'm currently learning Statistics & probability and Machine learning
+ 
+
