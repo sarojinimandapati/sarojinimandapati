@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  - 🔭 Skills I have SQL| EXCEL| PYTHON| Flask |Microsoft POWER BI
  - 🌱 I'm currently learning Advanced **Flask** and backend development REST APIs
  
- - ## 📫 Contact Me
+ - 📫 Contact Me
 - LinkedIn: [https://www.linkedin.com/in/sarojini-mandapati-43a848227/]  
 - Email: [msarojini129@gmai.com]  
  
