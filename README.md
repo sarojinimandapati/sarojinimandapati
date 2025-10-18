@@ -14,10 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- - This is sarojini mandapati ,🎓 I'm CSE graduate.
- - I found my interest in working with data and love ❤️ to create dashboards to convey my valuable insights
- - 🎯 Dream to start my career in the data analytics field 
- - 🔭 Skills I have SQL| EXCEL| PYTHON| TABLEAU |Microsoft POWER BI
- - 🌱 I'm currently learning Statistics & probability and Machine learning
+ - This is sarojini mandapati ,🎓 I'm a CSE graduate.
+ - I found my interest in working with data and love ❤️ to build software solutions.  
+ - 🎯I aspire to kickstart my career in **Software Development**, focusing on building backend solutions and data-driven applications.  
+ - 🔭 Skills I have SQL| EXCEL| PYTHON| Flask |Microsoft POWER BI
+ - 🌱 I'm currently learning Advanced **Flask** and backend development REST APIs
+ - 
+ - ## 📫 Contact Me
+- LinkedIn: [https://www.linkedin.com/in/sarojini-mandapati-43a848227/]  
+- Email: [msarojini129@gmai.com]  
  
 
