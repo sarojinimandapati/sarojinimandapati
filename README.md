@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  - 🎯I aspire to kickstart my career in **Software Development**, focusing on building backend solutions and data-driven applications.  
  - 🔭 Skills I have SQL| EXCEL| PYTHON| Flask |Microsoft POWER BI
  - 🌱 I'm currently learning Advanced **Flask** and backend development REST APIs
- - 
+ 
  - ## 📫 Contact Me
 - LinkedIn: [https://www.linkedin.com/in/sarojini-mandapati-43a848227/]  
 - Email: [msarojini129@gmai.com]  
